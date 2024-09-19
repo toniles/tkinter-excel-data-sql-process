@@ -7,6 +7,8 @@
 
 **Data Processor** is a Python script that streamlines the process of updating database records from external data files. While designed for a specific use case, it serves as an excellent model for building similar tools for your company's data management needs.
 
+![image](https://github.com/user-attachments/assets/75b19858-cd48-44df-9836-20e9ed684a87)
+
 ## 🎯 Key Features
 
 - **📈 Processes structured data files**
